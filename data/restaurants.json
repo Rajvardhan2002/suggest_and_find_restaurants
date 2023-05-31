@@ -1,0 +1,26 @@
+[
+  {
+    "id":"r1",
+    "name": "Meow, The Billy",
+    "address": "Raipur",
+    "cuisine": "Italian",
+    "website": "https://meowthebilly.com",
+    "description": "Vibe and billy"
+  },
+  {
+    "id":"r2",
+    "name": "Meow, The Billy",
+    "address": "Raipur",
+    "cuisine": "Italian",
+    "website": "https://meowthebilly.com",
+    "description": "billiyan"
+  },
+  {
+    "id":"r3",
+    "name": "Mickey101",
+    "address": "Bhilai ",
+    "cuisine": "Indian",
+    "website": "https://koiwebsitenahihai.com",
+    "description": "kya pta"
+  }
+]
